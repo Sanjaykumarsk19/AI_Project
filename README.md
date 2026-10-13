@@ -1,4 +1,4 @@
-**A Behavior Consistency Framework for AI-Based Suspicious Transaction Detection in Banking Systems**
+****A Behavior Consistency Framework for AI-Based Suspicious Transaction Detection in Banking Systems****
 
 
 An AI-powered web application that detects potentially fraudulent financial transactions using machine learning. SuspicioScan uses XGBoost, transaction feature engineering, and a real-time simulation dashboard to identify suspicious activity and support fraud monitoring.
